@@ -1,8 +1,8 @@
 package com.example.kotlindersleri.degiskenler
 
 fun main() {
-    var ilce = "umraniye"
-    var kita = "asya"
+    var ilce = "Ümraniye"
+    var kita = "Asya"
     var faks = "9902282142053"
     var postaKodu = "34764"
     var instaAdresi = "fthynk99"
